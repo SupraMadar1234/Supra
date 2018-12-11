@@ -17,10 +17,10 @@ new const PluginAuthor[] = "Supra";
 new const Prefix[] = "Ultimate Only Dust2";
 new const PREFIX[] = "[Ultiamte Only Dust2]";
 
-new const SQL_HOSZT[] = "db.synhosting.eu";
-new const SQL_ADATBAZIS[] = "migrans";
-new const SQL_FELHASZNALO[] = "migrans";
-new const SQL_JELSZO[] = "migransasasasasasas";
+new const SQL_HOSZT[] = "";
+new const SQL_ADATBAZIS[] = "";
+new const SQL_FELHASZNALO[] = "";
+new const SQL_JELSZO[] = "";
 new Handle:g_SqlTuple;
 
 enum _:eData 
